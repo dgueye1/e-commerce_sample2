@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+header{
+  margin-top: 20px;
+}
+
+header > h1 { 
+  text-align: center;
+}
+
+
+.slideshow{
+  padding-top: -1000%;
+}
+
+.Navigation {
+ margin-left: 30px;
+
+}
